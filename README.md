@@ -46,6 +46,7 @@ This dashboard answers key business questions such as:
 
 ### 🔹 Page 1: Marketing Funnel & Conversion Overview
 ![Marketing Funnel & Conversion Overview](https://github.com/Siddhesh150/FUTURE_DS_03/blob/main/Page%201.png)
+
 **Purpose:**  
 Provides a high-level snapshot of overall marketing performance and funnel efficiency.
 
