@@ -45,7 +45,7 @@ This dashboard answers key business questions such as:
 ## 🖼️ Dashboard Pages Overview
 
 ### 🔹 Page 1: Marketing Funnel & Conversion Overview
-![Marketing Funnel & Conversion Overview](https://github.com/Omkar-Udawant/FUTURE_DS_03/blob/main/Screenshots/Page1.png)
+![Marketing Funnel & Conversion Overview](https://github.com/Siddhesh150/FUTURE_DS_03/blob/main/Page%201.png)
 **Purpose:**  
 Provides a high-level snapshot of overall marketing performance and funnel efficiency.
 
@@ -61,7 +61,7 @@ Provides a high-level snapshot of overall marketing performance and funnel effic
 ---
 
 ### 🔹 Page 2: Conversion Performance Analysis
-![Performance Analysis](https://github.com/Omkar-Udawant/FUTURE_DS_03/blob/main/Screenshots/Page2.png)
+![Performance Analysis](https://github.com/Siddhesh150/FUTURE_DS_03/blob/main/Page%202.png)
 **Purpose:**  
 Focuses on deep-dive conversion insights across channels, lead types, and business categories.
 
